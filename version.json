@@ -1,0 +1,19 @@
+{
+  "app": {
+    "name": "IKube Studio",
+  },
+  "version": {
+    "latest": "0.3.0"
+  },
+  "update": {
+    "notes": [
+      "✨ Added Helm App Store with PostgreSQL, Mailhog, Redis, Grafana, Keycloak charts.",
+      "⚡ Improved Secrets and Service Accounts views.",
+      "🐞 Fixed deployment pagination and namespace refresh issues."
+    ],
+    "downloadUrl": "https://github.com/<your-username>/LocalKubeStudio/releases/latest",
+    "releasePage": "https://github.com/<your-username>/LocalKubeStudio/releases"
+  },
+  "meta": {
+  }
+}
