@@ -3,7 +3,7 @@
     "name": "IKube Studio"
   },
   "version": {
-    "latest": "0.4.0"
+    "latest": "v1.0.5"
   },
   "update": {
     "notes": [
@@ -14,6 +14,5 @@
     "downloadUrl": "https://github.com/<your-username>/LocalKubeStudio/releases/latest",
     "releasePage": "https://github.com/<your-username>/LocalKubeStudio/releases"
   },
-  "meta": {
-  }
+  "meta": {}
 }
